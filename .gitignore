@@ -1,0 +1,14 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+
+# IDE
+.idea/
+
+# Project specific - simulation outputs  
+output_graphs/
+test.py 

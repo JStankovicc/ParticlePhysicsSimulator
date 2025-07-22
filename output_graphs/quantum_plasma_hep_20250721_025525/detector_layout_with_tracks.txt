@@ -1,0 +1,34 @@
+
+HEP DETECTOR ANALYSIS SUMMARY
+==================================================
+
+DETECTOR CONFIGURATION:
+• Detector layers: 5
+• Layer names: inner_tracker, electromagnetic_calorimeter, hadronic_calorimeter, muon_chambers, outer_tracker
+
+DETECTION STATISTICS:
+• Total hits detected: 266,160
+• Total tracks reconstructed: 191
+
+HITS BY PARTICLE TYPE:
+• background: 2,679 hits (1.0%)
+• electron: 111,140 hits (41.8%)
+• neutron: 13,651 hits (5.1%)
+• proton: 111,174 hits (41.8%)
+• quark_down: 13,735 hits (5.2%)
+• quark_up: 13,781 hits (5.2%)
+
+TRACKS BY PARTICLE TYPE:
+• background: 1 tracks (0.5%)
+• electron: 80 tracks (41.9%)
+• neutron: 10 tracks (5.2%)
+• proton: 80 tracks (41.9%)
+• quark_down: 10 tracks (5.2%)
+• quark_up: 10 tracks (5.2%)
+
+DETECTOR EFFICIENCY:
+• Detection rate: 0.1%
+• Average hits per track: 1393.5
+
+NOTE: Graphical visualization skipped due to memory constraints.
+This summary provides key detector analysis results.
